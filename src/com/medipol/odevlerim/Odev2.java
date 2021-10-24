@@ -7,6 +7,7 @@ public class Odev2 {
 		
 		System.out.println("test");
 
+		//degisiklik yappildi.
 	}
 
 }
